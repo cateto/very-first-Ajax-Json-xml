@@ -1,0 +1,6 @@
+package com.md.service;
+
+public interface TxSampleService {
+	
+	public void doDmlN(String data); 
+}
